@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SalesForecasting
+namespace Sales_Forecasting_webapp
 {
 
 
